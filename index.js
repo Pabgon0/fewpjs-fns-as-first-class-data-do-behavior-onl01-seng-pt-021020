@@ -9,7 +9,7 @@ function handleClick(e) {
 
 /* End Given Code, don't edit above here...*/
 
-function greet(string) {
+function greet(time) {
   
 }
 /* Write your implementation of displayMessage() */
